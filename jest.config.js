@@ -1,6 +1,6 @@
 module.exports = {
   roots: [
-    '/src'
+    '<rootDir>/src'
   ],
 
   clearMocks: true,
